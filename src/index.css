@@ -1,0 +1,70 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-feature-settings: "rlig" 1, "calt" 1;
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    min-height: 100vh;
+  }
+  
+  .dark body {
+    background: linear-gradient(135deg, #2D1B69 0%, #11998e 100%);
+  }
+  
+  .font-mono {
+    font-family: 'JetBrains Mono', 'Fira Code', 'Menlo', 'Monaco', monospace;
+  }
+  
+  /* Çocuklar için canlı renkler */
+  .kid-friendly-bg {
+    background: linear-gradient(135deg, #FF6B6B 0%, #4ECDC4 25%, #45B7D1 50%, #96CEB4 75%, #FFEAA7 100%);
+  }
+  
+  .dark .kid-friendly-bg {
+    background: linear-gradient(135deg, #FF6B6B 0%, #4ECDC4 25%, #6C5CE7 50%, #A29BFE 75%, #FD79A8 100%);
+  }
+}
+
+@layer components {
+  .editor-scrollbar::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+  }
+  
+  .editor-scrollbar::-webkit-scrollbar-track {
+    background: #2d2d30;
+  }
+  
+  .editor-scrollbar::-webkit-scrollbar-thumb {
+    background: #464647;
+    border-radius: 4px;
+  }
+  
+  .editor-scrollbar::-webkit-scrollbar-thumb:hover {
+    background: #555556;
+  }
+  
+  .glass-effect {
+    backdrop-filter: blur(10px);
+    background: rgba(255, 255, 255, 0.1);
+  }
+  
+  .dark .glass-effect {
+    background: rgba(0, 0, 0, 0.2);
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}

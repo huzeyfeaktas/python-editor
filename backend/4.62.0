@@ -1,0 +1,11 @@
+click>=8.0.0
+
+# Web Scraping & Automation
+selenium>=4.0.0
+
+# Data Formats & Serialization
+PyYAML>=6.0
+toml>=0.10.0
+
+# Financial & APIs
+yfinance>=0.1.70" > requirements.txt

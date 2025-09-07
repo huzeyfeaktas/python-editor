@@ -1,0 +1,21 @@
+click>=8.0.0
+
+# Web Scraping & Automation
+selenium>=4.0.0
+
+# Data Formats & Serialization
+PyYAML>=6.0
+toml>=0.10.0
+
+# Financial & APIs
+yfinance>=0.1.70
+
+# Additional Image Processing
+scikit-image>=0.19.0
+
+# Note: Heavy ML libraries excluded for free tier compatibility:
+# - tensorflow (500MB+)
+# - torch/pytorch (800MB+) 
+# - scikit-learn (50MB+)
+# - kivy (100MB+)
+# These are available in premium version" > backend/requirements.txt
