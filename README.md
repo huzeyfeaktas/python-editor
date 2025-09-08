@@ -10,6 +10,8 @@ Modern, önceden yüklenmiş kütüphaneler ile Python kodlama deneyimi sunan we
 - **Dark/Light tema** desteği
 - **Responsive tasarım** (mobil uyumlu)
 - **Real-time kod çalıştırma**
+<img width="1902" height="910" alt="Ekran görüntüsü 2025-09-08 125413" src="https://github.com/user-attachments/assets/a7edb000-e9d6-4ef2-9101-d25f94bb01ea" />
+<img width="1919" height="909" alt="Ekran görüntüsü 2025-09-08 125548" src="https://github.com/user-attachments/assets/2d734dcd-9857-448d-ab21-86b62c4e2b8c" />
 
 ### 📦 Önceden Yüklenmiş Kütüphaneler
 - **Data Science:** NumPy, Pandas, Matplotlib, Seaborn, Plotly
@@ -19,12 +21,17 @@ Modern, önceden yüklenmiş kütüphaneler ile Python kodlama deneyimi sunan we
 - **Image Processing:** Pillow, OpenCV
 - **Graphics:** Turtle (built-in)
 - **Built-in Python:** json, datetime, os, sys, math, random, etc.
+<img width="1151" height="841" alt="Ekran görüntüsü 2025-09-08 125444" src="https://github.com/user-attachments/assets/fd800b81-694b-4ede-bdaf-df6cacf64b7c" />
 
 ### 🔐 Kullanıcı Yönetimi
 - Kullanıcı kayıt/giriş sistemi
 - Kişisel dosya yönetimi
 - Oturum yönetimi
 - Dosya tabanlı veri depolama
+<img width="522" height="583" alt="Ekran görüntüsü 2025-09-08 125351" src="https://github.com/user-attachments/assets/184a9a75-5ca8-4d5e-9e6b-2645b543927e" />
+<img width="1919" height="905" alt="Ekran görüntüsü 2025-09-08 125521" src="https://github.com/user-attachments/assets/3b21bc66-bc50-49fb-8cc2-5fcd0719e6ea" />
+<img width="1567" height="833" alt="Ekran görüntüsü 2025-09-08 130021" src="https://github.com/user-attachments/assets/34af12d8-395a-45ae-85bb-b9907863be91" />
+<img width="1158" height="187" alt="Ekran görüntüsü 2025-09-08 125428" src="https://github.com/user-attachments/assets/cce38065-18d4-4fbd-96d0-b255d32f939e" />
 
 ### 📝 Editör Özellikleri
 - Syntax highlighting
@@ -119,6 +126,7 @@ python-web-editor/
 - **CORS** yapılandırması ile güvenli API erişimi
 
 ## 🎮 Örnek Projeler
+<img width="1181" height="877" alt="Ekran görüntüsü 2025-09-08 125506" src="https://github.com/user-attachments/assets/9fc018b1-1318-45c4-9a93-bbcec5b31436" />
 
 ### 1. Veri Analizi
 ```python
